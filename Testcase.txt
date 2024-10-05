@@ -3,3 +3,4 @@ Verify that user can enter a query name.
 Verify that user can enter an API key.
 Verify that validation display if user click on next button without entering mandatory fields.
 Verify that user can remove an uploaded file and re-upload another file.
+Added test case
